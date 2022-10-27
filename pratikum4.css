@@ -1,0 +1,37 @@
+body
+{
+	margin: 5;
+	background-image: url(https://i.pinimg.com/564x/1f/c9/d1/1fc9d14d7d96c8797c5bc09a0bb2ceff.jpg);
+}
+h1
+{
+	text-align: center;
+	font-family:apple chancery;
+	font-size: 80px;
+	font-weight: 800;
+	color: rgb(255, 240, 245);
+}
+h2
+{
+	text-align: left;
+	font-family:apple chancery;
+	color: rgb(248, 244, 255);
+}
+
+p
+{
+	text-align: justify-all;
+	text-indent: 20px;
+	color: rgb(255, 240, 245);
+}
+table
+{
+	text-align: justify-all;
+	text-indent: 20px;
+	color: rgb(255, 240, 245);
+}
+form
+{
+	color: rgb(255, 240, 245);
+}
+
